@@ -12,7 +12,7 @@ libraryDependencies ++= Seq(
   "com.amazonaws" % "aws-lambda-java-events" % awsLVersion % Provided,
   "io.circe" %% "circe-core" % circeVersion,
   "io.circe" %% "circe-generic" % circeVersion,
-  "io.circe" %% "circe-parse" % circeVersion
+  "io.circe" %% "circe-parser" % circeVersion
 )
 
 
