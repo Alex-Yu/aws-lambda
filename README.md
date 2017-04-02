@@ -9,7 +9,7 @@ Example input:
 
 Example output: 
 {
-  rate: 1000
+  "rate": 1000
 }
 
 Build with sbt assembly
